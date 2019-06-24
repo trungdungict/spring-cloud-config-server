@@ -1,0 +1,3 @@
+# DEV: CIS WS Configuration
+cis:
+  base-url: http://localhost:8081/cis_ws/services
